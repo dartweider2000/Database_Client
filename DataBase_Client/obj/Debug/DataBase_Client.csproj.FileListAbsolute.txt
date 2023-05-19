@@ -1,0 +1,10 @@
+F:\Programming\C#\DataBase_Client\bin\Debug\DataBase_Client.exe.config
+F:\Programming\C#\DataBase_Client\bin\Debug\DataBase_Client.exe
+F:\Programming\C#\DataBase_Client\bin\Debug\DataBase_Client.pdb
+F:\Programming\C#\DataBase_Client\obj\Debug\DataBase_Client.csproj.AssemblyReference.cache
+F:\Programming\C#\DataBase_Client\obj\Debug\DataBase_Client.Properties.Resources.resources
+F:\Programming\C#\DataBase_Client\obj\Debug\DataBase_Client.csproj.GenerateResource.cache
+F:\Programming\C#\DataBase_Client\obj\Debug\DataBase_Client.csproj.CoreCompileInputs.cache
+F:\Programming\C#\DataBase_Client\obj\Debug\DataBase_Client.exe
+F:\Programming\C#\DataBase_Client\obj\Debug\DataBase_Client.pdb
+F:\Programming\C#\DataBase_Client\obj\Debug\DataBase_Client.Form1.resources
